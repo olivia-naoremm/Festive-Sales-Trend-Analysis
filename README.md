@@ -9,8 +9,8 @@ These consumers are primarily employed in IT, Healthcare, and Aviation sectors.
 The most preferred product categories include Food, Clothing, and Electronics.
 
 Technologies Used:
-Excel – Initial Data Exploration
-Python (Pandas, Matplotlib, Seaborn) – Data Cleaning & Analysis
+Excel – Initial Data Exploration,
+Python (Pandas, Matplotlib, Seaborn) – Data Cleaning & Analysis,
 Power BI – Data Visualization & Dashboard
 
 Insights & Business Impact:
@@ -19,4 +19,4 @@ Inventory Planning: Retailers can stock up on high-demand categories during fest
 Personalized Discounts: Offering deals on preferred products can increase customer engagement.
 
 Connect with Me:
-📧 Email: olivianaorem11.com💼 LinkedIn: https://www.linkedin.com/in/olivia-naorem-a58632266 🌐 GitHub: https://github.com/olivia-naoremm/Festive-Sales-Trend-Analysis/edit/main/README.md
+📧 Email: olivianaorem11.com💼 LinkedIn: https://www.linkedin.com/in/olivia-naorem-a58632266 🌐 GitHub: https://github.com/olivia-naoremm/Festive-Sales-Trend-Analysis
